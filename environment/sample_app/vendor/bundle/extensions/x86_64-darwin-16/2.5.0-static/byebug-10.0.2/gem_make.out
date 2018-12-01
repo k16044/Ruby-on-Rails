@@ -1,0 +1,19 @@
+current directory: /Users/k16044kk/GitHub/rails/environment/sample_app/vendor/bundle/gems/byebug-10.0.2/ext/byebug
+/Users/k16044kk/.rbenv/versions/2.5.1/bin/ruby -r ./siteconf20181202-23402-1jh174t.rb extconf.rb
+creating Makefile
+
+current directory: /Users/k16044kk/GitHub/rails/environment/sample_app/vendor/bundle/gems/byebug-10.0.2/ext/byebug
+make "DESTDIR=" clean
+
+current directory: /Users/k16044kk/GitHub/rails/environment/sample_app/vendor/bundle/gems/byebug-10.0.2/ext/byebug
+make "DESTDIR="
+compiling breakpoint.c
+compiling byebug.c
+compiling context.c
+compiling locker.c
+compiling threads.c
+linking shared-object byebug/byebug.bundle
+
+current directory: /Users/k16044kk/GitHub/rails/environment/sample_app/vendor/bundle/gems/byebug-10.0.2/ext/byebug
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 byebug.bundle ./.gem.20181202-23402-4dsln9/byebug
